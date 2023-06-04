@@ -45,6 +45,3 @@
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-#### Errors?
-- Make an [issue](https://github.com/addi00000/pegasus/issues)
-- Join the [Discord](https://discord.gg/fjNMt2C9Yc)
