@@ -1,11 +1,3 @@
-﻿<div align="center">
-  <h3>⭐ For a 🍪<br></h3>
-  <img src="https://cdn.discordapp.com/attachments/1114537510081671178/1114670690642186271/VID_20230603_234253_987.mp4">
-  <img src="![image](https://github.com/Blaze2016/Blaze15/assets/135478706/2177a41c-ef87-4d8d-bcd3-1d426280ad91)
-">
-  <img src="![image](https://github.com/Blaze2016/Blaze15/assets/135478706/bd434040-a8a0-4a1a-9293-d5d6ae91d91f)"
-</div>
-
 <div align="center">
   <h3>Pegasus</h3>
   <h4>Pull sensitive data from users on windows including discord tokens and chrome data.</h4>
