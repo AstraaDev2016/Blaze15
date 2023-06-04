@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Pegasus</h3>
+  <h3>s</h3>
   <h4>Pull sensitive data from users on windows including discord tokens and chrome data.</h4>
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </div>
